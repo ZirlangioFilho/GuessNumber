@@ -62,3 +62,4 @@ function restart() {
 function clear() {
   document.getElementById('kick').value = '';
 };
+
