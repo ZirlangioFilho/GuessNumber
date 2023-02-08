@@ -140,7 +140,6 @@ a{
 }
 i{
     color: var(--blue);
-    text-decoration: blink;
 }
 footer {
     padding: 1.5rem;
